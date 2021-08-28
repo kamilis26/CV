@@ -1,0 +1,124 @@
+body {
+  background-color: #F3F1F5;
+}
+
+h1 {
+  color: #464660;
+}
+
+h3 {
+  color: #464660;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #F0D9FF;
+  margin-top: 50px;
+  border-width: 8px;
+  width: 100%;
+}
+
+.myself {
+  border-radius: 100%;
+  width: 50%;
+  margin: 0px;
+  border-width: medium;
+  border-color: #BFA2DB
+
+}
+
+.nome {
+  font-size: 8rem;
+  color: #7F7C82;
+  font-family: 'Staatliches', cursive;
+  margin-left: 15%;
+  margin-bottom: 0;
+  height:100px;
+  margin-top: 25px;
+}
+
+.sobrenome {
+  font-size: 8rem;
+  color: #BFA2DB;
+  font-family: 'Staatliches', cursive;
+  margin-left: 15%;
+  margin-bottom: 10px;
+  margin-top: 0;
+
+}
+
+.formacao {
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  color: #7F7C82;
+  margin-left: 15%;
+  margin-top: 0;
+}
+
+.copy-right {
+  text-align: center;
+  margin-left: 0;
+}
+
+h3 {
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  color: #7F7C82;
+  margin-left: 5%;
+
+}
+
+p {
+  font-family: 'Urbanist', sans-serif;
+  line-height: 1.5;
+  font-size: 1.20rem;
+  margin-left: 5%;
+}
+
+li {
+  font-family: 'Urbanist', sans-serif;
+  line-height: 1.75;
+  font-size: 1.25rem;
+  margin-left: 50px;
+}
+
+tbody {
+  font-family: 'Urbanist', sans-serif;
+  line-height: 1.5;
+  font-size: 1.25rem;
+}
+
+td {
+  padding-left: 35px;
+  width: 400px;
+}
+
+.bottom-container {
+  background: #BFA2DB;
+  padding: 50px 0 30px;
+  margin-top: 70px;
+  text-align: center;
+  color: #7F7C82;
+}
+
+a {
+  margin: 10px 10px;
+  font-family: 'Urbanist', sans-serif;
+}
+
+a:hover {
+  color: #F0D9FF;
+}
+
+.contato {
+margin-left: 200px;
+}
+
+ol {
+  margin-left: 5%;
+}
+
+.capa {
+  padding-left: 100px;
+}
